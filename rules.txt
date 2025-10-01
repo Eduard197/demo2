@@ -2,4 +2,5 @@ git init
 git status
 git log
 rules
-commit
+git commit -m 'msg'
+
